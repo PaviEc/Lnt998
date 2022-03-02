@@ -3,3 +3,4 @@ Month is March
 Year is 2022
 One Touch Access to the service website
 The system will update automatically.
+Eye Protection Mode
