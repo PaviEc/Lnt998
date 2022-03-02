@@ -1,6 +1,8 @@
 Today is Tuesday
 Month is March
 Year is 2022
+Note that when first booting.
 One Touch Access to the service website
 The system will update automatically.
 Eye Protection Mode
+Switch computer working mode
