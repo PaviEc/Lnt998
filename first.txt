@@ -8,4 +8,4 @@ Eye Protection Mode
 Switch computer working mode
 Chennai Looks Beautiful
 India is a country
-
+Html is used to create static web pages
